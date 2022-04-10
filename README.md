@@ -5,4 +5,4 @@ Convert the Empty Objects [BlendArMocap](https://github.com/cgtinker/BlendArMoca
 ## Quick Start
 
 1. Get the Empty Objects from BlendArMocap.
-2. Run Running the [m.py](https://github.com/InMindChan/BMocap/blob/main/m.py) Script.
+2. Run Running the [m.py](https://github.com/RM2084/BMocap/blob/main/m.py) Script.
