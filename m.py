@@ -255,7 +255,7 @@ if mk_flag:
         bpy.ops.mesh.select_mode(type = "VERT")
         bpy.ops.mesh.select_all(action = 'DESELECT')
         
-        bpy.ops.object.mode_set(mode = 'OBJECT')  # 使用索引设置选择data.vertices仅在OBJECT模式下有效
+        bpy.ops.object.mode_set(mode = 'OBJECT')
         obj.data.vertices[i].select = True
         
         bpy.ops.object.mode_set(mode = 'EDIT')
