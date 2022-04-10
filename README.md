@@ -1,6 +1,6 @@
 # BMocap
 
-Convert the Empty Objects [BlendArMocap](https://github.com/cgtinker/BlendArMocap) to Points, Lines and Faces in Blender.
+Convert the Empty Objects [BlendArMocap](https://github.com/cgtinker/BlendArMocap) to Points, Lines and Faces in Blender 3.2.0 .
 
 ## Quick Start
 
