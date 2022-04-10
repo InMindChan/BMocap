@@ -1,6 +1,8 @@
 # BMocap
 
-[BlendArMocap](https://github.com/cgtinker/BlendArMocap)
-is a Blender add-on to preform Hand, Face and Pose Detection using Googles Mediapipe requiring just a Webcam. The detected data can be easily transferred to rifigy rigs.
+Convert the Empty Objects [BlendArMocap](https://github.com/cgtinker/BlendArMocap) to Points, Lines and Faces in Blender.
 
 ## Quick Start
+
+1. Get the Empty Objects from BlendArMocap.
+2. Run Running the m.py Script.
