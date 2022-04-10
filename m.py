@@ -290,8 +290,4 @@ for i in range(100):
     bpy.ops.object.mode_set(mode = 'OBJECT')
    
     bpy.ops.anim.insert_keyframe_animall()
-
-#######################################################   
-
-#bpy.ops.object.editmode_toggle()
-#print(collection.name)             
+  
